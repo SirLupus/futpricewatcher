@@ -31,3 +31,6 @@ Status Bar Information:
 - Number of tracked players
 - Number of active alerts
 - Next refresh countdown
+
+Screenshot from App
+![image](https://github.com/user-attachments/assets/e3d05b9f-712e-462c-9254-efd43c3396ad)
