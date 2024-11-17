@@ -1,6 +1,8 @@
 # futpricewatcher
 Tool which watches Futbin and Futgg prices and send a notification when your target price is reached.
 
+.NET Framework 4.8 is needed for this App to run!
+
 FIFA 24 Price Monitor - Help Guide
 ================================
 
