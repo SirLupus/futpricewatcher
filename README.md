@@ -3,6 +3,8 @@ Tool which watches Futbin and Futgg prices and send a notification when your tar
 
 .NET Framework 4.8 is needed for this App to run!
 
+Download is in Releases ( https://github.com/SirLupus/futpricewatcher/releases )
+
 FIFA 24 Price Monitor - Help Guide
 ================================
 
