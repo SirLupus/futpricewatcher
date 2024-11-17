@@ -5,7 +5,7 @@ Tool which watches Futbin and Futgg prices and send a notification when your tar
 
 Download is in Releases ( https://github.com/SirLupus/futpricewatcher/releases )
 
-FIFA 24 Price Monitor - Help Guide
+EA FC 25 Price Monitor - Help Guide
 ================================
 
 Player List Management:
@@ -23,18 +23,22 @@ Price Monitoring:
 1. Set refresh interval in Settings menu
 2. Prices below target show in green
 3. Prices >5% above target show in red
+4. Prices are fetched from both Futbin and Fut.gg
 
 Notifications:
-1. Enable/disable in Settings menu
-2. Click notification to open price log
-3. Log shows all price alerts with timestamps
+1. Enable/disable notifications in Settings menu
+2. Choose notification sources (Futbin/Fut.gg) in Settings > Notification Sources
+3. Click notification to open price log
+4. Log shows time, player, source, price, and target price
+5. Only one alert per player (lowest price) is shown
 
 Status Bar Information:
 - Current refresh interval
-- Notification status
+- Notification status and active sources
 - Number of tracked players
 - Number of active alerts
 - Next refresh countdown
+
 
 Screenshot from App
 ![image](https://github.com/user-attachments/assets/e3d05b9f-712e-462c-9254-efd43c3396ad)
